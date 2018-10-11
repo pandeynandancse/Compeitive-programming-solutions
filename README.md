@@ -1,1 +1,3 @@
 # Compeitive-programming-solutions
+Here I shall provide solutions of competitive programming of various platform such as 'HackerRank', 'CodeChef', 'HackerEarth', etc...
+
